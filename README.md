@@ -19,6 +19,18 @@ Modern web applications are confined to the browser's sandbox. WebBridge provide
 - **Interact with Peripheral Devices:** Read from scanners, sensors, or other custom hardware.
 - **Full-Stack Integration:** Seamlessly integrate rich web frontends with powerful .NET backend logic.
 
+### 🖥️ Requirements
+
+**Development Environment:**
+
+- Visual Studio 2022
+- .NET 8.0 or higher
+
+**Supported Platforms:**
+
+- Windows / macOS / Linux
+- Modern web browsers (Chrome, Firefox, Edge, Safari)
+
 ### 🪄 Getting Started
 
 ### 🛠️ Contributing
