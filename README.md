@@ -1,14 +1,16 @@
-<h1 align="center">WebBridge.Net</h1>
+<p align="center">
+    <img src="./artworks/WebBridgeLogo.png" width="144" />
+</p>
+<h1 align="center">DotNetWebBridge</h1>
 <p align="center">The Seamless Bridge Between Web and Native.</p>
 
-## WebBridge
+## WebBridge.NET
 
 ### 🚀 About
 
 This is an open-source .NET library designed to bridge the gap between web applications and the native operating system. You can expose custom APIs in the browser's JavaScript context, allowing web pages to directly and asynchronously interact with local system resources.
 
 Modern web applications are confined to the browser's sandbox. WebBridge provides a controlled pathway through these walls by establishing a communication channel from the browser to a .NET backend running locally. By binding your .NET code to the JavaScript environment, you can grant web apps the ability to leverage the full power of the underlying OS.
-
 
 ### ✨ Key Features
 
